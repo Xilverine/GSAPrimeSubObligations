@@ -1,0 +1,512 @@
+#group_by(Dollars)
+#mutate(as.numeric(as.character(Dollars)) %>%
+#mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+#filter(psdir_table$Dollars > 25000)) %>%
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation') %>%
+#group_by(Dollars)
+#mutate(as.numeric(as.character(Dollars)) %>%
+#mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+#filter(psdir_table$Dollars > 25000)) %>%
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation') %>%
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation') %>%
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation') %>%
+group_by(NAICS_Code)
+group_by(NAICS_Code)
+mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table <- psdir_data %>%
+mutate(as.numeric(as.character(Dollars))
+psdir_table <- psdir_data %>%
+mutate(as.numeric(as.character('Dollars'))
+psdir_table <- psdir_data %>%
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+mutate(as.numeric(as.character('Dollars'))
+mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table %>% mutate(as.numeric(as.character('Dollars'))
+psdir_table %>% mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table %>% mutate(as.numeric(as.character('Dollars'))
+psdir_table %>% mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+view(psdir_table)
+psdir_table <- psdir_data %>%
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+#psdir_table %>% mutate(as.numeric(as.character('Dollars'))
+#psdir_table %>% mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+#psdir_table %>% mutate(as.numeric(as.character('Dollars'))
+#psdir_table %>% mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+# psdir_table %>% mutate(as.numeric(as.character('Dollars'))
+# psdir_table %>% mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+# psdir_table %>% mutate(as.numeric(as.character('Dollars'))
+# psdir_table %>% mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+psdir_table$Dollars <- filter(psdir_table$Dollars > 25000)
+psdir_table$Dollars <- psdir_table[psdir_table$Dollars > 25000]
+psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table$Dollars <- psdir_table[psdir_table$Dollars > 25000]
+# psdir_table %>% mutate(as.numeric(as.character('Dollars'))
+# psdir_table %>% mutate(Dollars = as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table$Dollars <- psdir_table[psdir_table$Dollars > 25000]
+psdir_table$Dollars <- psdir_table[psdir_table$Dollars > [25000]]
+psdir_table$Dollars <- psdir_table[psdir_table$Dollars > 25000,]
+psdir_table[psdir_table$Dollars > 25000,]
+view(psdir_table)
+psdir_table$Dollars <-psdir_table[psdir_table$Dollars > 25000,]
+psdir_table$Dollars2 <-psdir_table[psdir_table$Dollars > 25000,]
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table[psdir_table$Dollars > 25000,]
+subset([psdir_table$Dollars > 25000,])
+subset(psdir_table$Dollars > 25000,)
+subset(psdir_table$Dollars > 25000)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+filter(psdir_table$Dollars > 25000)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table[psdir_table$Dollars > 25000,]
+filter(psdir_table[psdir_table$Dollars > 25000,)
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars)) %>%
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars)) %>%
+view(psdir_table)
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars)) %>%
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table[psdir_table$Dollars > 25000,]
+psdir_newtable <- [psdir_table, psdir_table$Dollars]
+psdir_newtable <- (psdir_table, psdir_table$Dollars)
+psdir_newtable <- data.frame(psdir_table, psdir_table$Dollars)
+view(psdir_newtable)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table[psdir_table$Dollars > 25000,]
+psdir_newtable <- data.frame(psdir_table, Dollars)
+view(psdir_newtable)
+psdir_table <- psdir_data %>%
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table[psdir_table$Dollars > 25000,]
+psdir_newtable <- data.frame(psdir_table, psdir_table$Dollars)
+view(psdir_newtable)
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table[psdir_table$Dollars > 25000,]
+psdir_newtable <- data.frame(psdir_table, Dollars)
+view(psdir_newtable)
+psdir_table[psdir_table$Dollars > 25000,]
+view(psdir_newtable)
+psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_newtable <- data.frame(psdir_table, Dollars)
+view(psdir_newtable)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+psdir_table <- data.frame(psdir_table, Dollars)
+view(psdir_table)
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+#psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table <- data.frame(psdir_table, Dollars)
+view(psdir_table)
+view(psdir_table)
+psdir_table <- data.frame(psdir_table, Dollars.1, -Dollars)
+view(psdir_table)
+# does tibble default blank cells in data frame to NA?
+psdir_data <- read_csv(file = "primesub_directory2019.csv")
+psdir_data %>% as_tibble(psdir_data)
+view(psdir_data)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table <- data.frame(psdir_table, Dollars.1, -Dollars)
+psdir_table <- data.frame(psdir_table, Dollars)
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars))
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars))
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+psdir_table <- data.frame(psdir_table, Dollars)
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+mutate(as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars)) %>%
+POP_City = 'Principal Place of Performance City Name',
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+psdir_table$Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', - Dollars = 'Action Obligation')
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', -Dollars = 'Action Obligation')
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+Total_Dollars <- as.numeric(gsub("[^0-9.]", "", psdir_table$Dollars))
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Dollars))
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Dollars))
+view(psdir_table)
+view(psdir_table)
+library(dplyr)
+library(magrittr)
+library(readr)
+library(naniar)
+library(tibble)
+getwd()
+# does tibble default blank cells in data frame to NA?
+psdir_data <- read_csv(file = "primesub_directory2019.csv")
+psdir_data %>% as_tibble(psdir_data)
+view(psdir_data)
+# return all rows with "NA", very small sample
+NA_rows <- view(psdir_data[rowSums(is.na(psdir_data)) > 0,])
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Dollars))
+view(psdir_table)
+filter(psdir_table$Dollars > 25000)
+filter[psdir_table$Dollars > 25000]
+filter[(psdir_table$Dollars > 25000)]
+filter(psdir_table, Dollars > 25000)
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Dollars))
+filter(psdir_table, Dollars > 25000)
+view(psdir_table)
+filter(psdir_table, psdir_table$Dollars > 25000)
+view(psdir_table)
+filter(psdir_table, psdir_table$Dollars == 25000)
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Dollars))
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Dollars))
+view(psdir_table)
+# does tibble default blank cells in data frame to NA?
+psdir_data <- read_csv(file = "primesub_directory2019.csv")
+psdir_data %>% as_tibble(psdir_data)
+view(psdir_data)
+# return all rows with "NA", very small sample
+NA_rows <- view(psdir_data[rowSums(is.na(psdir_data)) > 0,])
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Dollars))
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Dollars))
+view(psdir_table)
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Action Obligation = as.numeric(Action Obligation)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code')
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Action Obligation = as.numeric(Action Obligation)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Action Obligtation))
+# select specific rows from data frame, rename
+psdir_table <- psdir_data %>%
+select(2:9, 11, 16, 18:19) %>%
+mutate(Dollars = as.numeric(Dollars)) %>%
+rename(PSC = 'Product or Service Code', Complete_Date = 'Est. Ultimate Completion Date',PSC_Desc = 'Product or Service Description',
+POP_City = 'Principal Place of Performance City Name',
+POP_State = 'Principal Place of Performance State Code', NAICS_Code = 'NAICS Code', Dollars = 'Action Obligation')
+# psdir_table$Dollars <- as.numeric(as.character('Dollars'))
+as.numeric(gsub("[^0-9.]", "", Action Obligtation))
+view(psdir_table)
+head(psdir_table)
+#save
+savehistory(file = primesub_directory2019)
+#save
+savehistory(file = "primesub_directory2019.csv")
